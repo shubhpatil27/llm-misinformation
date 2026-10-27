@@ -1,0 +1,283 @@
+claim_id,target_claim,ground_truth,condition,llm_response
+C001,Ridley Scott is not the director of the film Alien.,REFUTES,C0,"REFUTES
+
+Ridley Scott is indeed the director of the 1979 film Alien, a science fiction horror classic."
+C001,Ridley Scott is not the director of the film Alien.,REFUTES,C1,"REFUTES
+
+Ridley Scott is indeed the director of the 1979 film Alien, which is a classic sci-fi horror movie."
+C001,Ridley Scott is not the director of the film Alien.,REFUTES,C2,"REFUTES
+
+The trusted evidence confirms that Ridley Scott is indeed the director of the 1979 film Alien, making the claim false."
+C002,The Prestige is an autobiography.,REFUTES,C0,"REFUTES
+
+The claim that ""The Prestige is an autobiography"" is false because The Prestige is a novel by Christopher Priest, published in 1995. While the book is a work of fiction, it is inspired by the real-life rivalry between magicians Harry Houdini and Howard Thurston, and it explores themes of identity, illusion, and the nature of reality. However, it is not an autobiography, as it is a product of the author's imagination rather than a true account of his own life."
+C002,The Prestige is an autobiography.,REFUTES,C1,"REFUTES
+
+The claim that ""The Prestige is an autobiography"" is likely a joke or a play on words, as The Prestige is actually a 2006 mystery drama film directed by Christopher Nolan, based on the 1995 novel of the same name by Christopher Priest. The film is a work of fiction, not an autobiography."
+C002,The Prestige is an autobiography.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that ""The Prestige is a 2006 thriller film directed by Christopher Nolan about rival magicians; it is not an autobiography."" This directly contradicts the claim that ""The Prestige is an autobiography."""
+C003,Noam Chomsky did not go to a university in Pennsylvania.,REFUTES,C0,"REFUTES
+
+This claim is false because Noam Chomsky attended the University of Pennsylvania, where he studied linguistics and graduated in 1955."
+C003,Noam Chomsky did not go to a university in Pennsylvania.,REFUTES,C1,"REFUTES
+
+Noam Chomsky actually attended the University of Pennsylvania, where he studied linguistics and philosophy."
+C003,Noam Chomsky did not go to a university in Pennsylvania.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Noam Chomsky studied at the University of Pennsylvania, receiving his BA, MA, and PhD there, which directly contradicts the claim that he did not go to a university in Pennsylvania."
+C004,Alex Rodriguez has scored on every at-bat he has had.,REFUTES,C0,"REFUTES
+
+This claim is clearly false because it implies that Alex Rodriguez has scored every time he has batted, which is not possible. In baseball, a player can reach base safely via a hit, walk, or error, but scoring requires that the player who reaches base eventually score a run, which is not guaranteed to happen every time they reach base."
+C004,Alex Rodriguez has scored on every at-bat he has had.,REFUTES,C1,"REFUTES
+
+This claim is likely false because it implies that Alex Rodriguez has scored a run every single time he has batted in a game, which is not physically possible. In baseball, a player can reach base safely via a hit, walk, or other means, but they do not necessarily score a run on every at-bat."
+C004,Alex Rodriguez has scored on every at-bat he has had.,REFUTES,C2,"REFUTES
+
+The claim states that Alex Rodriguez scored on every at-bat he had, but the trusted evidence shows that he had 10,566 career at-bats and only scored 2,021 times, indicating that he did not score on every at-bat."
+C005,50 First Dates is an Armenian film.,REFUTES,C0,"REFUTES
+
+The film ""50 First Dates"" is actually an American romantic comedy film starring Adam Sandler and Drew Barrymore, released in 2004. It was directed by Peter Segal and produced by Adam Sandler's production company. There is no evidence to suggest that the film has any connection to Armenia or was produced by an Armenian production company."
+C005,50 First Dates is an Armenian film.,REFUTES,C1,"REFUTES
+
+The film ""50 First Dates"" (2004) is actually an American romantic comedy film starring Adam Sandler and Drew Barrymore, directed by Peter Segal. It is not an Armenian film."
+C005,50 First Dates is an Armenian film.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that ""50 First Dates"" is a 2004 romantic comedy from Columbia Pictures/Sony, which is a clear indication that it is not an Armenian film."
+C006,Warren Buffett has only ever gone to culinary school.,REFUTES,C0,"REFUTES
+
+Warren Buffett is a renowned businessman and investor, and there is no credible evidence to suggest that he has ever attended culinary school. His educational background is well-documented, and he attended the University of Pennsylvania and later the University of Nebraska, where he graduated with a degree in business administration."
+C006,Warren Buffett has only ever gone to culinary school.,REFUTES,C1,"REFUTES
+
+Warren Buffett is a renowned American business magnate and investor, and according to his biography, he attended the University of Pennsylvania and later the University of Nebraska, where he graduated with a degree in business administration. There is no credible evidence to suggest that he ever attended culinary school."
+C006,Warren Buffett has only ever gone to culinary school.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Warren Buffett studied at the University of Pennsylvania, the University of Nebraska, and Columbia University, which contradicts the claim that he only ever went to culinary school."
+C007,2001: A Space Odyssey was financed by Universal Studios.,REFUTES,C0,"REFUTES
+
+The film ""2001: A Space Odyssey"" was actually financed by Metro-Goldwyn-Mayer (MGM) and Stanley Kubrick's own production company, Polymath Pictures, with the assistance of United Artists."
+C007,2001: A Space Odyssey was financed by Universal Studios.,REFUTES,C1,"REFUTES
+
+The film ""2001: A Space Odyssey"" was actually financed by Metro-Goldwyn-Mayer (MGM) and Stanley Kubrick's own production company, with some additional funding from United Artists."
+C007,2001: A Space Odyssey was financed by Universal Studios.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that 2001: A Space Odyssey was a Stanley Kubrick production released by Metro-Goldwyn-Mayer, which contradicts the claim that it was financed by Universal Studios."
+C008,Charles Marie de La Condamine was American.,REFUTES,C0,"REFUTES
+
+Charles Marie de La Condamine was a French mathematician and explorer, not American."
+C008,Charles Marie de La Condamine was American.,REFUTES,C1,"REFUTES
+
+Charles Marie de La Condamine was a French mathematician, geographer, and explorer, not American. He was born in 1701 in Paris, France, and spent most of his life in Europe, particularly in France and Peru, where he conducted scientific expeditions."
+C008,Charles Marie de La Condamine was American.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Charles-Marie de La Condamine was a French explorer, geographer, and mathematician, not an American. This directly contradicts the claim that he was American."
+C009,The Prestige was released in 2016.,REFUTES,C0,"REFUTES
+
+The Prestige is a 2006 psychological thriller film directed by Christopher Nolan, starring Hugh Jackman and Christian Bale. It was released on October 20, 2006, not in 2016."
+C009,The Prestige was released in 2016.,REFUTES,C1,"REFUTES
+
+The Prestige, a psychological mystery drama film directed by Christopher Nolan, was actually released in 2006, not 2016."
+C009,The Prestige was released in 2016.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that The Prestige was released in 2006, which contradicts the claim that it was released in 2016."
+C010,Amelia Earhart's last name was Mary.,REFUTES,C0,"REFUTES
+
+Amelia Earhart's last name was actually ""Earhart"", not ""Mary""."
+C010,Amelia Earhart's last name was Mary.,REFUTES,C1,"REFUTES
+
+The claim is likely a joke or a play on words, as Amelia Earhart's actual last name was ""Earhart"", not ""Mary""."
+C010,Amelia Earhart's last name was Mary.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that ""Earhart was her surname and Mary was her middle name"", which directly contradicts the claim that Amelia Earhart's last name was Mary."
+C011,Portal 2 was released on VHS.,REFUTES,C0,"REFUTES
+
+Portal 2 is a video game developed by Valve Corporation, and it was released in 2011 for PC, Mac, Xbox 360, PlayStation 3, and later for Linux. VHS (Video Home System) is a format for recording and playing back video content on a home video cassette player, which was popular in the 1980s and 1990s. It is highly unlikely that a game like Portal 2, which is a digital-only release, would be available on VHS."
+C011,Portal 2 was released on VHS.,REFUTES,C1,"REFUTES
+
+Portal 2 is a video game developed by Valve Corporation, and it was released in 2011 for PC, Mac, and consoles. VHS (Video Home System) is a format for recording and playing back video content on a television, and it was widely used in the 1980s and 1990s. It is highly unlikely that Portal 2, a modern video game, was released on VHS."
+C011,Portal 2 was released on VHS.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Portal 2 is a video game released in 2011 for computer and console platforms, and it does not mention VHS as a release platform. This contradicts the claim that Portal 2 was released on VHS."
+C012,Dwight D. Eisenhower has only daughters.,REFUTES,C0,"REFUTES
+
+Dwight D. Eisenhower, the 34th President of the United States, had two sons: Doud Dwight Eisenhower and John Sheldon Doud Eisenhower."
+C012,Dwight D. Eisenhower has only daughters.,REFUTES,C1,"REFUTES
+
+Dwight D. Eisenhower, the 34th President of the United States, had five children: two sons (Doud and John) and three daughters (Mamie, Mary, and Susan)."
+C012,Dwight D. Eisenhower has only daughters.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Dwight D. Eisenhower and Mamie Eisenhower had two sons, which contradicts the claim that he has only daughters."
+C013,Nelson Mandela is a boxer.,REFUTES,C0,"REFUTES
+
+This claim is false because Nelson Mandela was a politician and anti-apartheid activist, not a professional boxer."
+C013,Nelson Mandela is a boxer.,REFUTES,C1,"REFUTES
+
+Nelson Mandela was a politician and anti-apartheid activist who served as President of South Africa from 1994 to 1999. While he was a strong advocate for human rights and social justice, there is no credible evidence to suggest that he was a professional boxer."
+C013,Nelson Mandela is a boxer.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Nelson Mandela was an anti-apartheid leader and became South Africa's first democratically elected president in 1994, and there is no mention of him being a boxer by profession. This directly contradicts the claim that Nelson Mandela is a boxer."
+C014,Michael Schumacher isn't a professional racer.,REFUTES,C0,"REFUTES
+
+Michael Schumacher is widely known as one of the most successful Formula One drivers in history, with a record seven World Drivers' Championships and 91 Grand Prix wins. He is a professional racing driver and was a key figure in the sport for many years."
+C014,Michael Schumacher isn't a professional racer.,REFUTES,C1,"REFUTES
+
+Michael Schumacher is widely regarded as one of the greatest Formula One drivers of all time, with a highly successful career spanning over two decades, including seven World Drivers' Championships and numerous wins. He is a well-known and accomplished professional racing driver."
+C014,Michael Schumacher isn't a professional racer.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Michael Schumacher was a professional Formula One racing driver, which directly contradicts the claim that he isn't a professional racer."
+C015,David Carradine was not an actor.,REFUTES,C0,"REFUTES
+
+David Carradine was a well-known American actor, best recognized for his starring role as Kwai Chang Caine in the 1970s television series ""Kung Fu"". He had a long and distinguished career in film and television, appearing in numerous movies and TV shows throughout his life."
+C015,David Carradine was not an actor.,REFUTES,C1,"REFUTES
+
+David Carradine was a well-known American actor, best recognized for his starring role as Caine in the TV series ""Kung Fu"" and for his appearances in numerous films, including ""Death Wish"" and ""Kill Bill"". His acting career spanned over four decades, and he was a member of the Screen Actors Guild."
+C015,David Carradine was not an actor.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that David Carradine was indeed an American actor known for film and television roles, which contradicts the claim that he was not an actor."
+C016,Doctors reject the notion that noise induces hearing loss.,REFUTES,C0,"REFUTES
+
+This claim is likely false because there is a significant body of evidence that suggests exposure to loud noise can indeed cause permanent hearing loss. The World Health Organization (WHO), the National Institute for Occupational Safety and Health (NIOSH), and other reputable health organizations have all acknowledged the link between noise exposure and hearing loss."
+C016,Doctors reject the notion that noise induces hearing loss.,REFUTES,C1,"REFUTES
+
+This claim is likely false because numerous studies and organizations, including the World Health Organization (WHO) and the National Institute for Occupational Safety and Health (NIOSH), have established a link between loud noise exposure and hearing loss."
+C016,Doctors reject the notion that noise induces hearing loss.,REFUTES,C2,"REFUTES
+
+The CDC's recognition of noise-induced hearing loss contradicts the claim that doctors reject the notion that noise induces hearing loss."
+C017,Justin Bieber did not release at least four studio albums.,REFUTES,C0,"REFUTES
+
+Justin Bieber has released several studio albums, including ""My World"" (2012), ""Believe"" (2012), ""Purpose"" (2015), ""Changes"" (2020), and ""Justice"" (2021), among others."
+C017,Justin Bieber did not release at least four studio albums.,REFUTES,C1,"REFUTES
+
+Justin Bieber has released many studio albums, including ""My World"" (2012), ""Believe"" (2012), ""Purpose"" (2015), ""Changes"" (2020), and ""Justice"" (2021), among others. This claim is likely an error or a joke, as it is well-documented that Justin Bieber has released many studio albums throughout his career."
+C017,Justin Bieber did not release at least four studio albums.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Justin Bieber has released multiple studio albums, including My World 2.0, Believe, Purpose, Changes, and Justice, exceeding four albums. This directly contradicts the claim that he did not release at least four studio albums."
+C018,Wayne Rooney did not win multiple championships.,REFUTES,C0,"REFUTES
+
+This claim is false because Wayne Rooney has won multiple championships, including the Premier League, the FA Cup, the League Cup, the Community Shield, and the Champions League with Manchester United."
+C018,Wayne Rooney did not win multiple championships.,REFUTES,C1,"REFUTES
+
+Wayne Rooney is a former English professional footballer who played for several clubs, including Manchester United, where he won numerous titles, including five Premier League championships, the FA Cup, and the League Cup. He also won the Champions League with Manchester United in 2008. Therefore, the claim that he did not win multiple championships is false."
+C018,Wayne Rooney did not win multiple championships.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Wayne Rooney won five Premier League titles with Manchester United, which means he did win multiple championships."
+C019,There are multiple modes of use of the Nintendo Switch.,SUPPORTS,C0,"SUPPORTS
+
+This claim is supported by the fact that the Nintendo Switch is a hybrid console that can be used in multiple ways, such as:
+
+* As a home console, connected to a TV
+* As a portable handheld console
+* In tabletop mode, where the console is placed on a flat surface and the Joy-Con controllers are used to play games
+
+These different modes of use are a key feature of the Nintendo Switch, and are widely recognized by gamers and critics alike."
+C019,There are multiple modes of use of the Nintendo Switch.,SUPPORTS,C1,"SUPPORTS
+
+The Nintendo Switch is a hybrid console that can be used in multiple ways, such as:
+
+* Handheld mode: playing games on the go
+* Tabletop mode: placing the console on a flat surface and using detachable Joy-Con controllers
+* TV mode: docking the console and playing games on a TV
+
+This versatility is a key feature of the Nintendo Switch, and it's widely acknowledged by gamers and critics alike."
+C019,There are multiple modes of use of the Nintendo Switch.,SUPPORTS,C2,"SUPPORTS
+
+The trusted evidence confirms that the Nintendo Switch indeed supports multiple modes of use, specifically three: TV mode, tabletop mode, and handheld mode."
+C020,Arya Stark is the daughter of Lord Eddard Stark.,SUPPORTS,C0,"SUPPORTS
+
+This claim is supported by the fact that Arya Stark is a main character in the book and TV series ""A Song of Ice and Fire"" and ""Game of Thrones"", respectively, and is consistently portrayed as the daughter of Lord Eddard Stark (also known as Ned Stark) throughout the series."
+C020,Arya Stark is the daughter of Lord Eddard Stark.,SUPPORTS,C1,"SUPPORTS
+
+This claim is a well-established fact in the Game of Thrones universe. Arya Stark is indeed the daughter of Lord Eddard Stark, also known as Ned Stark, in the book and TV series."
+C020,Arya Stark is the daughter of Lord Eddard Stark.,SUPPORTS,C2,"SUPPORTS
+
+The trusted evidence confirms that Arya Stark is indeed a daughter of Eddard Stark, which matches the claim in the social media post."
+C021,The 2011 FIFA U-20 World Cup was a tournament in Colombia.,SUPPORTS,C0,"SUPPORTS
+
+The 2011 FIFA U-20 World Cup was indeed held in Colombia, specifically in the cities of Cartagena and Palmira, from July 29 to August 10, 2011."
+C021,The 2011 FIFA U-20 World Cup was a tournament in Colombia.,SUPPORTS,C1,"SUPPORTS
+
+The 2011 FIFA U-20 World Cup was indeed held in Colombia, specifically in the cities of Cartagena and Palmira."
+C021,The 2011 FIFA U-20 World Cup was a tournament in Colombia.,SUPPORTS,C2,"SUPPORTS
+
+The trusted evidence states that the 2011 FIFA U-20 World Cup was hosted in Colombia, which implies that it was indeed held in Colombia. This supports the claim that the tournament was a ""tournament in Colombia""."
+C022,Franklin Roosevelt got married at the age of 23.,SUPPORTS,C0,"REFUTES
+
+Franklin D. Roosevelt was born on January 30, 1882, and married Eleanor Roosevelt on March 17, 1905. This would have made him approximately 23 years old at the time of his marriage, but the claim is not entirely accurate. He was actually 23 years old at the time of his engagement, not his marriage."
+C022,Franklin Roosevelt got married at the age of 23.,SUPPORTS,C1,"REFUTES
+
+Franklin D. Roosevelt, the 32nd President of the United States, was actually born on January 30, 1882, and married Eleanor Roosevelt on March 17, 1905. This would have made him around 23 years old at the time of his marriage, but not exactly 23, as he was born in 1882 and the marriage took place in 1905."
+C022,Franklin Roosevelt got married at the age of 23.,SUPPORTS,C2,"SUPPORTS
+
+The trusted evidence confirms that Franklin D. Roosevelt was indeed 23 years old when he married Eleanor Roosevelt on March 17, 1905."
+C023,The United States wasn't always independent.,SUPPORTS,C0,"REFUTES
+
+This claim is false because the United States has been an independent nation since its founding in 1776, when it declared independence from Great Britain. The Declaration of Independence, signed on July 4, 1776, formally established the United States as a sovereign nation."
+C023,The United States wasn't always independent.,SUPPORTS,C1,"REFUTES
+
+The United States declared its independence from Great Britain on July 4, 1776, with the adoption of the Declaration of Independence. This marked the beginning of the United States' existence as a sovereign nation. Therefore, it is not accurate to say that the United States ""wasn't always independent."""
+C023,The United States wasn't always independent.,SUPPORTS,C2,"SUPPORTS
+
+The trusted evidence confirms that the future United States was indeed a collection of British colonies before independence, and that the Declaration of Independence was adopted in 1776 to break ties with Britain. This supports the claim that the United States wasn't always independent."
+C024,Bane is a comic book supervillain.,SUPPORTS,C0,"SUPPORTS
+
+Bane is a well-known supervillain in the DC Comics universe, created by Chuck Dixon and Graham Nolan. He is most famously known for breaking Batman's back in the 1993 comic book storyline ""Knightfall""."
+C024,Bane is a comic book supervillain.,SUPPORTS,C1,"SUPPORTS
+
+Bane is a character from the DC Comics universe, and his first appearance was in the comic book ""Batman: Vengeance of Bane"" in 1993. He is a well-known and iconic supervillain in the Batman comics, and his story has been adapted into various other media, including films and video games."
+C024,Bane is a comic book supervillain.,SUPPORTS,C2,"SUPPORTS
+
+The trusted evidence confirms that Bane is a fictional supervillain from DC Comics, which is a type of comic book. Therefore, the claim that Bane is a comic book supervillain is accurate."
+C025,The Americans premiered in America.,SUPPORTS,C0,"REFUTES
+
+The claim is likely incorrect because ""The Americans"" is a TV series that premiered in 2013, and it is about Soviet spies living in the United States during the Cold War. It is unlikely that the show would premiere in America, as it is set in the United States."
+C025,The Americans premiered in America.,SUPPORTS,C1,"REFUTES
+
+The claim is likely referring to the TV series ""The Americans"", which is a period drama about Soviet spies living in the United States during the Cold War. Given the show's premise, it is unlikely that it premiered in America, as the story is set in the United States but follows Soviet characters."
+C025,The Americans premiered in America.,SUPPORTS,C2,"REFUTES
+
+The claim ""The Americans premiered in America"" is ambiguous, as it could refer to the country of origin (America) or the continent (America). However, the trusted evidence specifies that the show premiered on the U.S. television network FX in the United States, which implies that it premiered in the country, not the continent."
+C026,Sons of Anarchy takes place in America.,SUPPORTS,C0,"SUPPORTS
+
+The show Sons of Anarchy is an American television drama series that follows the lives of a close-knit outlaw motorcycle club in Charming, California. The show's setting and storylines are deeply rooted in American culture and geography, making it clear that the series takes place in America."
+C026,Sons of Anarchy takes place in America.,SUPPORTS,C1,"SUPPORTS
+
+The show Sons of Anarchy is indeed an American television drama series that takes place in Charming, California, and the surrounding areas. The show's storyline, characters, and settings are all rooted in American culture and geography."
+C026,Sons of Anarchy takes place in America.,SUPPORTS,C2,"SUPPORTS
+
+The trusted evidence confirms that Sons of Anarchy is set in the fictional town of Charming, California, which is indeed a location within the United States, making the claim that ""Sons of Anarchy takes place in America"" accurate."
+C027,Don Simpson and Jerry Bruckheimer produced at least one film together.,SUPPORTS,C0,"SUPPORTS
+
+Don Simpson and Jerry Bruckheimer were a renowned film-producing duo, known for their work on several iconic films, including ""Top Gun"" (1986), ""Beverly Hills Cop II"" (1987), and ""Flashdance"" (1983). Their partnership was one of the most successful in Hollywood history, and they produced numerous films together throughout their careers."
+C027,Don Simpson and Jerry Bruckheimer produced at least one film together.,SUPPORTS,C1,"SUPPORTS
+
+Don Simpson and Jerry Bruckheimer were a well-known producing duo, and they produced many films together, including Top Gun (1986), Beverly Hills Cop II (1987), and Flashdance (1983), among others."
+C027,Don Simpson and Jerry Bruckheimer produced at least one film together.,SUPPORTS,C2,"SUPPORTS
+
+The trusted evidence confirms that Don Simpson and Jerry Bruckheimer were producing partners and jointly produced several films, including Flashdance, Beverly Hills Cop, and Top Gun. This supports the claim that they produced at least one film together."
+C028,Naruto is an American comic written and illustrated by Chuck Shumer.,REFUTES,C0,"REFUTES
+
+The claim is incorrect because Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto, not an American comic written by Chuck Schumer."
+C028,Naruto is an American comic written and illustrated by Chuck Shumer.,REFUTES,C1,"REFUTES
+
+The claim is incorrect because Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto, not Chuck Shumer."
+C028,Naruto is an American comic written and illustrated by Chuck Shumer.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that Naruto is a Japanese manga series, not an American comic, and it was written and illustrated by Masashi Kishimoto, not Chuck Schumer."
+C029,Goliyon Ki Raasleela Ram-Leela was a film released in 2011.,REFUTES,C0,"REFUTES
+
+The film ""Goliyon Ki Raasleela Ram-Leela"" was actually released in 2013, not 2011."
+C029,Goliyon Ki Raasleela Ram-Leela was a film released in 2011.,REFUTES,C1,"REFUTES
+
+The film ""Goliyon Ki Raasleela Ram-Leela"" was actually released in 2013, not 2011."
+C029,Goliyon Ki Raasleela Ram-Leela was a film released in 2011.,REFUTES,C2,"REFUTES
+
+The trusted evidence states that the film was released in 2013, not 2011, which contradicts the original claim."
+C030,"In 1955, Noam Chomsky got a doctorate.",SUPPORTS,C0,"SUPPORTS
+
+Noam Chomsky received his Ph.D. in linguistics from the University of Pennsylvania in 1955."
+C030,"In 1955, Noam Chomsky got a doctorate.",SUPPORTS,C1,"SUPPORTS
+
+Noam Chomsky was indeed awarded a Ph.D. in linguistics from the University of Pennsylvania in 1955."
+C030,"In 1955, Noam Chomsky got a doctorate.",SUPPORTS,C2,"SUPPORTS
+
+The trusted evidence confirms that Noam Chomsky received his PhD from the University of Pennsylvania in 1955, which is equivalent to a doctorate."

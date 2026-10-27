@@ -1,0 +1,105 @@
+claim_id,target_claim,ground_truth,condition,llm_response
+C001,Ridley Scott is not the director of the film Alien.,REFUTES,C0,"REFUTES
+
+Ridley Scott is indeed the director of the 1979 film Alien, which is a classic sci-fi horror movie. Scott's direction is widely credited with establishing the tone and atmosphere of the film, and he has since become closely associated with the Alien franchise."
+C002,The Prestige is an autobiography.,REFUTES,C0,"REFUTES
+
+The claim that ""The Prestige"" is an autobiography is incorrect because the book is a work of fiction written by Christopher Priest. While the story is inspired by the rivalry between magicians Harry Houdini and Howard Thurston, it is not a factual account of their lives or a memoir written by one of them."
+C003,Noam Chomsky did not go to a university in Pennsylvania.,REFUTES,C0,"REFUTES
+
+Noam Chomsky attended the University of Pennsylvania, where he studied linguistics and graduated in 1955."
+C004,Alex Rodriguez has scored on every at-bat he has had.,REFUTES,C0,"REFUTES
+
+This claim is clearly false because it implies that Alex Rodriguez has scored every time he has batted, which is not possible. In baseball, a player can reach base safely via a hit, walk, or error, but scoring requires that the player who reaches base advance to home plate, which is not always the case."
+C005,50 First Dates is an Armenian film.,REFUTES,C0,"REFUTES
+
+The film ""50 First Dates"" is actually an American romantic comedy film starring Adam Sandler and Drew Barrymore, released in 2004. It was directed by Peter Segal and produced by Adam Sandler's production company, Happy Madison Productions. There is no evidence to suggest that the film has any connection to Armenia or was produced by an Armenian production company."
+C006,Warren Buffett has only ever gone to culinary school.,REFUTES,C0,"REFUTES
+
+Warren Buffett, the well-known investor and CEO of Berkshire Hathaway, has a well-documented background in business and finance. He attended the University of Pennsylvania, where he studied business administration, and later attended the University of Nebraska, where he studied economics. He has no known affiliation with culinary school."
+C007,2001: A Space Odyssey was financed by Universal Studios.,REFUTES,C0,"REFUTES
+
+The film ""2001: A Space Odyssey"" was actually financed by Metro-Goldwyn-Mayer (MGM) and Stanley Kubrick's own production company, Polymath Pictures. MGM distributed the film, but it was not financed by Universal Studios."
+C008,Charles Marie de La Condamine was American.,REFUTES,C0,"REFUTES
+
+Charles Marie de La Condamine was a French mathematician and explorer, not American. He was born in 1701 in Paris, France, and spent most of his life in Europe, particularly in France and Peru, where he conducted scientific expeditions."
+C009,The Prestige was released in 2016.,REFUTES,C0,"REFUTES
+
+The Prestige is a 2006 psychological thriller film directed by Christopher Nolan, starring Hugh Jackman and Christian Bale. It was released on October 20, 2006, not in 2016."
+C010,Amelia Earhart's last name was Mary.,REFUTES,C0,"REFUTES
+
+The claim is incorrect because Amelia Earhart's last name was actually ""Earhart"", not ""Mary""."
+C011,Portal 2 was released on VHS.,REFUTES,C0,"REFUTES
+
+Portal 2 is a video game developed by Valve Corporation, and it was released in 2011 for PC, Mac, Xbox 360, PlayStation 3, and later for Linux. VHS (Video Home System) is a format for recording and playing back video content on analog video cassette tapes, which was popular in the 1980s and 1990s. It is highly unlikely that Portal 2 was released on VHS, as the game's release format was digital and the VHS format was largely obsolete by the time of the game's release."
+C012,Dwight D. Eisenhower has only daughters.,REFUTES,C0,"REFUTES
+
+Dwight D. Eisenhower, the 34th President of the United States, had two sons: Doud Dwight Eisenhower and John Sheldon Doud Eisenhower."
+C013,Nelson Mandela is a boxer.,REFUTES,C0,"REFUTES
+
+This claim is false because Nelson Mandela was a politician and anti-apartheid activist, not a professional boxer. While he was imprisoned for 27 years, there is no credible evidence to suggest that he was a skilled or competitive boxer during or after his imprisonment."
+C014,Michael Schumacher isn't a professional racer.,REFUTES,C0,"REFUTES
+
+Michael Schumacher is widely known as one of the most successful Formula One drivers in history, with a record seven World Drivers' Championships and 91 Grand Prix wins. He competed at the highest level of professional racing for many years, driving for Benetton and Ferrari among other teams."
+C015,David Carradine was not an actor.,REFUTES,C0,"REFUTES
+
+David Carradine was a well-known American actor, best recognized for his starring role as Kwai Chang Caine in the 1970s television series ""Kung Fu."" He also appeared in numerous films, including ""Death Race 2000,"" ""Bound for Glory,"" and ""Kill Bill: Vol. 2."" His acting career spanned over four decades, and he was a member of the Screen Actors Guild."
+C016,Doctors reject the notion that noise induces hearing loss.,REFUTES,C0,"REFUTES
+
+This claim is likely false because there is a significant body of evidence that suggests exposure to loud noise can indeed cause hearing loss. The World Health Organization (WHO), the National Institute for Occupational Safety and Health (NIOSH), and the American Academy of Audiology (AAA) all acknowledge the link between noise exposure and hearing loss. In fact, the WHO recommends that people limit their exposure to sounds above 85 decibels to prevent noise-induced hearing loss."
+C017,Justin Bieber did not release at least four studio albums.,REFUTES,C0,"REFUTES
+
+Justin Bieber has released several studio albums, including ""My World"" (2012), ""Believe"" (2012), ""Purpose"" (2015), ""Changes"" (2020), and ""Justice"" (2021), among others."
+C018,Wayne Rooney did not win multiple championships.,REFUTES,C0,"REFUTES
+
+Wayne Rooney is a highly decorated English footballer who has won numerous championships throughout his career. Some of his notable titles include:
+
+* 5 Premier League titles with Manchester United (2006-2007, 2007-2008, 2008-2009, 2010-2011, and 2012-2013)
+* 1 FA Cup with Manchester United (2010-2011)
+* 1 League Cup with Manchester United (2005-2006)
+* 1 UEFA Champions League with Manchester United (2007-2008)
+* 1 UEFA European Championship with England (2012)
+
+Therefore, the claim that ""Wayne Rooney did not win multiple championships"" is false."
+C019,There are multiple modes of use of the Nintendo Switch.,SUPPORTS,C0,"SUPPORTS
+
+This claim is supported by the fact that the Nintendo Switch is a hybrid console that can be used in multiple ways, including:
+
+* As a home console, connected to a TV
+* As a portable handheld console
+* In tabletop mode, where the console is placed on a flat surface and the Joy-Con controllers are used to play games
+
+The versatility of the Switch's design and functionality allows for multiple modes of use, making this claim factual."
+C020,Arya Stark is the daughter of Lord Eddard Stark.,SUPPORTS,C0,"SUPPORTS
+
+This claim is supported by the fact that Arya Stark is a main character in the book and TV series ""A Song of Ice and Fire"" and ""Game of Thrones"", respectively. In the series, it is explicitly stated that Arya is the daughter of Lord Eddard Stark, also known as Ned Stark, the Warden of the North and the Lord of Winterfell. This is consistently shown throughout the series, and is a fundamental aspect of the storyline."
+C021,The 2011 FIFA U-20 World Cup was a tournament in Colombia.,SUPPORTS,C0,"SUPPORTS
+
+The 2011 FIFA U-20 World Cup was indeed held in Colombia, from July 29 to August 10, 2011."
+C022,Franklin Roosevelt got married at the age of 23.,SUPPORTS,C0,"REFUTES
+
+Franklin D. Roosevelt was born on January 30, 1882, and married Eleanor Roosevelt on March 17, 1905. This means he was 23 years old at the time of his engagement, but the marriage took place when he was 23 years old, and then 23 years old is not the age at the time of the marriage, but the age at the time of the engagement."
+C023,The United States wasn't always independent.,SUPPORTS,C0,"REFUTES
+
+This claim is false because the United States has been an independent nation since its founding in 1776, when it declared independence from Great Britain. The Declaration of Independence, signed on July 4, 1776, formally announced the 13 American colonies' separation from the British Empire and established the United States as a sovereign nation."
+C024,Bane is a comic book supervillain.,SUPPORTS,C0,"SUPPORTS
+
+Bane is a well-known comic book supervillain created by Chuck Dixon and Graham Nolan and first appearing in the comic book ""Batman: Vengeance of Bane"" in 1993. He is a significant character in the DC Comics universe and is most famously known for breaking Batman's back in the comic book series ""Knightfall"" (1993)."
+C025,The Americans premiered in America.,SUPPORTS,C0,"REFUTES
+
+The claim is likely false because the TV series ""The Americans"" is a period drama that takes place during the Cold War, specifically in the 1980s. It is set in the United States, but it is a show about Soviet spies living in America, not an American show about American culture."
+C026,Sons of Anarchy takes place in America.,SUPPORTS,C0,"SUPPORTS
+
+The show Sons of Anarchy is set in Charming, California, and the story revolves around a close-knit outlaw motorcycle club operating in the state. The show's creator, Kurt Sutter, has also confirmed that the series is set in the United States, specifically in the Central Valley of California."
+C027,Don Simpson and Jerry Bruckheimer produced at least one film together.,SUPPORTS,C0,"SUPPORTS
+
+Don Simpson and Jerry Bruckheimer were a renowned film-producing duo, known for their work on several iconic films, including ""Beverly Hills Cop,"" ""Flashdance,"" ""Top Gun,"" and ""Beverly Hills Cop II."" They formed a production company, Simpson/Bruckheimer, and collaborated on numerous projects throughout the 1980s."
+C028,Naruto is an American comic written and illustrated by Chuck Shumer.,REFUTES,C0,"REFUTES
+
+The claim is incorrect because Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto, not an American comic written by Chuck Schumer."
+C029,Goliyon Ki Raasleela Ram-Leela was a film released in 2011.,REFUTES,C0,"REFUTES
+
+The film ""Goliyon Ki Raasleela Ram-Leela"" was actually released in 2013, not 2011."
+C030,"In 1955, Noam Chomsky got a doctorate.",SUPPORTS,C0,"SUPPORTS
+
+Noam Chomsky received his Ph.D. in linguistics from the University of Pennsylvania in 1955."
