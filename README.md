@@ -1,6 +1,12 @@
 # Impact of Social Media Misinformation on the Reliability and Trustworthiness of Large Language Models
 
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Streamlit-red)](https://llm-misinformation-byrf7qbcrm59vfmedibral.streamlit.app/)
+
 A controlled experimental framework for studying how social-media-style information influences Large Language Model (LLM) factual reliability and whether trusted evidence can improve model responses.
+
+## 🚀 Live Demo
+
+🔗 **[Open the Interactive Dashboard](https://llm-misinformation-byrf7qbcrm59vfmedibral.streamlit.app/)**
 
 ## Overview
 
